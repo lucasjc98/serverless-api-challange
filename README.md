@@ -2,7 +2,7 @@
 
 ## Requisitos
 
-* [Node](https://nodes.org)
+* [NodeJS](https://nodejs.org/en/)
 * [Serverless](https://www.serverless.com/framework/docs/getting-started/)
 * [Yarn](https://yarnpkg.com/)
 
